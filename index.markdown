@@ -5,4 +5,4 @@
 layout: home
 ---
 
-![duck](_images/duck.jpg)
+![duck](images/duck.jpg)
