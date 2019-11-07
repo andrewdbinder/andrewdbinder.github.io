@@ -5,4 +5,4 @@
 layout: home
 ---
 
-Hi how are you
+![duck](_images/duck.jpg)
