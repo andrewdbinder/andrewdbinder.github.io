@@ -59,3 +59,4 @@ plugins:
 header_pages:
   - about.markdown
   - index.markdown 
+  - Dashcam.markdown
