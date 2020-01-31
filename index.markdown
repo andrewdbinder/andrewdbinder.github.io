@@ -6,4 +6,4 @@ layout: home
 ---
 
 
-![papi](images/Papitine.png)
+![papi](images/Papitine_cropy.png)
