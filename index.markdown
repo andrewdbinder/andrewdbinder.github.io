@@ -5,6 +5,5 @@
 layout: home
 ---
 
-# We no hack Walla Walla University
 
-![duck](images/download.jpeg)
+![papi](images/Papitine.png)
