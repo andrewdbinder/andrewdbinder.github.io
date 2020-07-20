@@ -6,10 +6,12 @@ git_source(:github) {|repo_name| "https://github.com/sharadcodes/jekyll-theme-mi
 
 # gem "rails"
 
-gem "jekyll", "~> 3.3"
+gem "jekyll", "~> 3.8.7"
 
-gem "jekyll-paginate", "~> 1.1"
+gem "jekyll-paginate", "~> 1.1.0"
 
-gem "jekyll-feed", "~> 0.11.0"
+gem "jekyll-feed", "~> 0.13.0"
 
-gem "jemoji", "~> 0.10.1"
+gem "jemoji", "~> 0.11.1"
+
+gem 'github-pages'
