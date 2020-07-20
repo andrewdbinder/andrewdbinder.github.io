@@ -13,7 +13,6 @@
 			{% for link in site.main_toc %}
 			    <li class="nav-item">
 			      <a class="nav-link" href="{{ site.baseurl }}/{{ link.url }}">{{ link.title }}</a>
-			      <img class="nav-link" href="{{ site.baseurl }}/{{ link.url }}" src="/img/abinder.png"></a>
 			    </li>
 			{% endfor %}			
           	</ul>
@@ -21,6 +20,8 @@
         </div>
 
         <a class="navbar-brand mx-auto order-1 order-md-3" href="{{site.baseurl}}">{{ site.title }}</a>
+      	<img class="nav-link" href="{{ site.baseurl }}/{{ link.url }}" src="/img/abinder.png"></a>
+
       </div>
     </nav>
   </header>
