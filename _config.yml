@@ -1,7 +1,7 @@
 title: "abinder"
 
 about: "abinder.dev webpage"
-markdown: kramdown
+markdown: GFM
 url: "andrewdbinder.github.io"
 baseurl: "/andrewdbinder.github.io"
 
