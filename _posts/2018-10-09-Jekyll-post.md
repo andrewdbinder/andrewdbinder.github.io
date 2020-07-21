@@ -1,10 +1,10 @@
 ---
-title: Jekyll post
+title: Battle of the Bands
 layout: post
-date: 2018-10-09
-description: A complete post.
-image: 3.jpg
-categories: ["c"]
+date: 2020-07-20
+description: Behind the scenes at Battle of the Bands at WWU.
+image: EOR_4450.JPG
+categories: ["Audio Engineering"]
 ---
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`
