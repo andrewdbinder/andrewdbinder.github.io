@@ -17,7 +17,7 @@
 				{% for category in site.categories %}
 				    {% capture category_name %}{{ category | first }}{% endcapture %}
                 <a class="btn btn-light btn-sm mb-1" href="{{ site.baseurl }}/categories/#{{category_name | slugize}}">
-                {{ category | first }}{% unless forloop.last %},{% endunless %}</a>
+                {{ category | first }}{% unless forloop.last %}{% endunless %}</a>
 				{% endfor %}
               </div>
             </div>
