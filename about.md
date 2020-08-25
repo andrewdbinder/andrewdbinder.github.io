@@ -1,9 +1,9 @@
 ---
 layout: default
-title: About
+title: About 2
 ---
 
-# This is us!
+# About
 
 
 
